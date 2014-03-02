@@ -18,12 +18,11 @@
         }
   ],
   "require": {
-    "redkite-cms/twitter-bootstrap": "dev-master"
+    "redkite-cms/twitter-bootstrap": "1.1.*"
   },
   "autoload": {
         "psr-0": { "RedKiteCms\\Theme\\ModernBusinessThemeBundle": ""
         }
     },
-    "target-dir" : "RedKiteCms/Theme/ModernBusinessThemeBundle",
-    "minimum-stability": "dev"
+    "target-dir" : "RedKiteCms/Theme/ModernBusinessThemeBundle"
 }
